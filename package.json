@@ -1,0 +1,23 @@
+{
+  "name": "my-test-package-toggler",
+  "version": "1.0.0",
+  "description": "Reusable CSS class toggler",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-toggler"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bellitabellota/JS-toggler.git"
+  },
+  "keywords": [
+    "css-class",
+    "toggler"
+  ],
+  "author": "Isabella Hansmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellitabellota/JS-toggler/issues"
+  },
+  "homepage": "https://github.com/bellitabellota/JS-toggler#readme"
+}
